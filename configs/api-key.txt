@@ -1,0 +1,27 @@
+# Serenity Custom Pools API Key
+# Website: https://serenitycustompools.com
+# Created: 2025-10-28
+# Access Granted: 2025-10-28
+#
+# ⚠️ KEEP THIS FILE SECURE - Full admin access to production system
+#
+# Usage: Include in API requests as header:
+# Authorization: Bearer API_KEY
+#
+# This key provides complete administrative control over:
+# - Database (18 tables, full SQL access)
+# - AI Agents (Gemini voice, email automation, chatbot)
+# - File system (read/write/delete)
+# - Meta-endpoints (create custom API endpoints)
+# - Integrations (Stripe, HubSpot, Salesforce, Twilio)
+# - White-labeling (clone entire backend)
+# - Environment variables and configuration
+# - Webhooks and scheduled jobs
+
+API_KEY=U9XRq0TsmaoTie6F2zTuLavTGLfSW5pTOQJIORoJE
+BASE_URL_PRODUCTION=https://serenitycustompools.com
+BASE_URL_LOCAL=http://localhost:5000
+
+# Primary phone: (678) 300-8949
+# Database: PostgreSQL (Neon)
+# Tech: Node.js, Express, React, Gemini AI, OpenAI
